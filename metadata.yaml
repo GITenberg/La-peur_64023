@@ -1,5 +1,8 @@
 _repo: La-peur_64023
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64023-h/images/cover.jpg
 creator:
   author:
     agent_name: Haraucourt, Edmond
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edmond_Haraucourt
     - https://fr.wikipedia.org/wiki/Edmond_Haraucourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64023#La-peur
 gutenberg_issued: '2020-12-12'
 gutenberg_type: Text
 identifiers:
